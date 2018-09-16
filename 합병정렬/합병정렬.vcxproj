@@ -143,6 +143,13 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="합병정렬.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="배열출력.h" />
+    <ClInclude Include="배열할당.h" />
+    <ClInclude Include="배열회전.h" />
+    <ClInclude Include="정렬.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
